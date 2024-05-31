@@ -2,7 +2,7 @@
 
 
 
-![IMG_7743](https://github.com/ChocoChip30/TM_PROJ4/assets/155379882/3e9052fe-9712-4e1f-87e0-1dc631e7f5f4)
+<img src=https://github.com/ChocoChip30/TM_PROJ4/assets/155379882/3e9052fe-9712-4e1f-87e0-1dc631e7f5f4 width="400" height="790">
 ![IMG_7744](https://github.com/ChocoChip30/TM_PROJ4/assets/155379882/5858e1bf-bcbe-4e81-a5f6-22c426eb54a8)
 ![IMG_7745](https://github.com/ChocoChip30/TM_PROJ4/assets/155379882/556dca4f-3e77-4d66-8c13-9abc5bee3b8e)
 ![IMG_7748](https://github.com/ChocoChip30/TM_PROJ4/assets/155379882/a29220bf-3eac-47dc-b55f-7cdbac1b96ba)
